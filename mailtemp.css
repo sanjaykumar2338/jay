@@ -1,0 +1,7 @@
+.mycollegelist .list-group-item.cat-header {
+    background-color: #019ff0 !important;
+    font-size: 18px;
+    font-weight: 500;
+    color: #fff;
+    padding: 10px 15px;
+}

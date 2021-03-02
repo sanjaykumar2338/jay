@@ -1,0 +1,515 @@
+[06-Jul-2020 22:37:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/adash/public_html/dashboard/reportfullbizpublicexcel.php on line 119
+[06-Jul-2020 22:37:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/adash/public_html/dashboard/reportfullbizpublicexcel.php on line 164
+[06-Jul-2020 22:48:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/adash/public_html/dashboard/reportfullbizpublicexcel.php on line 118
+[06-Jul-2020 22:48:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/adash/public_html/dashboard/reportfullbizpublicexcel.php on line 163
+[21-Jul-2020 18:16:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/adash/public_html/dashboard/reportfullbizpublicexcel.php on line 119
+[21-Jul-2020 18:16:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/adash/public_html/dashboard/reportfullbizpublicexcel.php on line 164
+[26-Jul-2020 22:06:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/adash/public_html/dashboard/reportfullbizpublicexcel.php on line 119
+[26-Jul-2020 22:06:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/adash/public_html/dashboard/reportfullbizpublicexcel.php on line 164
+[30-Jul-2020 16:35:03 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1076
+[30-Jul-2020 16:35:03 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1104
+[30-Jul-2020 16:35:03 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1131
+[30-Jul-2020 16:35:03 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1158
+[30-Jul-2020 16:35:03 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1188
+[30-Jul-2020 16:35:03 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1216
+[30-Jul-2020 16:35:03 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1243
+[30-Jul-2020 16:35:03 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1271
+[30-Jul-2020 16:35:03 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1334
+[30-Jul-2020 16:35:03 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1335
+[30-Jul-2020 16:35:03 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1336
+[30-Jul-2020 16:35:03 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1338
+[30-Jul-2020 16:35:13 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1068
+[30-Jul-2020 16:35:13 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1096
+[30-Jul-2020 16:35:13 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1123
+[30-Jul-2020 16:35:13 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1150
+[30-Jul-2020 16:35:13 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1180
+[30-Jul-2020 16:35:13 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1208
+[30-Jul-2020 16:35:13 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1235
+[30-Jul-2020 16:35:13 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1263
+[30-Jul-2020 16:35:13 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1326
+[30-Jul-2020 16:35:13 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1327
+[30-Jul-2020 16:35:13 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1328
+[30-Jul-2020 16:35:13 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1330
+[30-Jul-2020 16:37:52 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1076
+[30-Jul-2020 16:37:52 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1104
+[30-Jul-2020 16:37:52 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1131
+[30-Jul-2020 16:37:52 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1158
+[30-Jul-2020 16:37:52 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1188
+[30-Jul-2020 16:37:52 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1216
+[30-Jul-2020 16:37:52 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1243
+[30-Jul-2020 16:37:52 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1271
+[30-Jul-2020 16:37:52 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1334
+[30-Jul-2020 16:37:52 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1335
+[30-Jul-2020 16:37:52 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1336
+[30-Jul-2020 16:37:52 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1338
+[31-Jul-2020 15:27:14 UTC] PHP Fatal error:  Uncaught Google\AdsApi\AdWords\v201809\cm\ApiException: Details: [fieldPath: ; trigger: <null>; errorString: AuthorizationError.USER_PERMISSION_DENIED] in /home/adash/public_html/dashboard/adwordslib/vendor/googleads/googleads-php-lib/src/Google/AdsApi/AdWords/Reporting/v201809/ReportDownloader.php:234
+Stack trace:
+#0 /home/adash/public_html/dashboard/adwordslib/vendor/googleads/googleads-php-lib/src/Google/AdsApi/AdWords/Reporting/v201809/ReportDownloader.php(158): Google\AdsApi\AdWords\Reporting\v201809\ReportDownloader->makeReportRequest(Array)
+#1 /home/adash/public_html/dashboard/savegadwordsdata.php(92): Google\AdsApi\AdWords\Reporting\v201809\ReportDownloader->downloadReportWithAwql('SELECT Clicks, ...', 'CSV', Object(Google\AdsApi\AdWords\ReportSettings))
+#2 {main}
+  thrown in /home/adash/public_html/dashboard/adwordslib/vendor/googleads/googleads-php-lib/src/Google/AdsApi/AdWords/Reporting/v201809/ReportDownloader.php on line 234
+[03-Aug-2020 13:27:07 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 804
+[03-Aug-2020 13:27:07 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 832
+[03-Aug-2020 13:27:07 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 859
+[03-Aug-2020 13:27:07 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 886
+[03-Aug-2020 13:27:07 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 916
+[03-Aug-2020 13:27:07 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 944
+[03-Aug-2020 13:27:07 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 971
+[03-Aug-2020 13:27:07 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 999
+[03-Aug-2020 13:27:07 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 1062
+[03-Aug-2020 13:27:07 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 1063
+[03-Aug-2020 13:27:07 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 1064
+[03-Aug-2020 13:27:07 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 1066
+[03-Aug-2020 13:27:53 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 804
+[03-Aug-2020 13:27:53 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 832
+[03-Aug-2020 13:27:53 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 859
+[03-Aug-2020 13:27:53 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 886
+[03-Aug-2020 13:27:53 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 916
+[03-Aug-2020 13:27:53 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 944
+[03-Aug-2020 13:27:53 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 971
+[03-Aug-2020 13:27:53 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 999
+[03-Aug-2020 13:27:53 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 1062
+[03-Aug-2020 13:27:53 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 1063
+[03-Aug-2020 13:27:53 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 1064
+[03-Aug-2020 13:27:53 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 1066
+[03-Aug-2020 13:50:30 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 804
+[03-Aug-2020 13:50:30 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 832
+[03-Aug-2020 13:50:30 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 859
+[03-Aug-2020 13:50:30 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 886
+[03-Aug-2020 13:50:30 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 916
+[03-Aug-2020 13:50:30 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 944
+[03-Aug-2020 13:50:30 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 971
+[03-Aug-2020 13:50:30 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 999
+[03-Aug-2020 13:50:30 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 1062
+[03-Aug-2020 13:50:30 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 1063
+[03-Aug-2020 13:50:30 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 1064
+[03-Aug-2020 13:50:30 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportanalytics.php on line 1066
+[04-Aug-2020 14:23:33 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1076
+[04-Aug-2020 14:23:33 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1104
+[04-Aug-2020 14:23:33 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1131
+[04-Aug-2020 14:23:33 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1158
+[04-Aug-2020 14:23:33 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1188
+[04-Aug-2020 14:23:33 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1216
+[04-Aug-2020 14:23:33 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1243
+[04-Aug-2020 14:23:33 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1271
+[04-Aug-2020 14:23:33 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1334
+[04-Aug-2020 14:23:33 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1335
+[04-Aug-2020 14:23:33 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1336
+[04-Aug-2020 14:23:33 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1338
+[04-Aug-2020 14:23:40 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1076
+[04-Aug-2020 14:23:40 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1104
+[04-Aug-2020 14:23:40 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1131
+[04-Aug-2020 14:23:40 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1158
+[04-Aug-2020 14:23:40 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1188
+[04-Aug-2020 14:23:40 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1216
+[04-Aug-2020 14:23:40 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1243
+[04-Aug-2020 14:23:40 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1271
+[04-Aug-2020 14:23:40 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1334
+[04-Aug-2020 14:23:40 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1335
+[04-Aug-2020 14:23:40 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1336
+[04-Aug-2020 14:23:40 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1338
+[04-Aug-2020 14:23:41 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1076
+[04-Aug-2020 14:23:41 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1104
+[04-Aug-2020 14:23:41 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1131
+[04-Aug-2020 14:23:41 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1158
+[04-Aug-2020 14:23:41 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1188
+[04-Aug-2020 14:23:41 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1216
+[04-Aug-2020 14:23:41 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1243
+[04-Aug-2020 14:23:41 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1271
+[04-Aug-2020 14:23:41 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1334
+[04-Aug-2020 14:23:41 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1335
+[04-Aug-2020 14:23:41 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1336
+[04-Aug-2020 14:23:41 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1338
+[04-Aug-2020 14:23:48 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1076
+[04-Aug-2020 14:23:48 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1104
+[04-Aug-2020 14:23:48 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1131
+[04-Aug-2020 14:23:48 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1158
+[04-Aug-2020 14:23:48 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1188
+[04-Aug-2020 14:23:48 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1216
+[04-Aug-2020 14:23:48 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1243
+[04-Aug-2020 14:23:48 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1271
+[04-Aug-2020 14:23:48 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1334
+[04-Aug-2020 14:23:48 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1335
+[04-Aug-2020 14:23:48 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1336
+[04-Aug-2020 14:23:48 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1338
+[04-Aug-2020 14:24:09 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1076
+[04-Aug-2020 14:24:09 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1104
+[04-Aug-2020 14:24:09 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1131
+[04-Aug-2020 14:24:09 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1158
+[04-Aug-2020 14:24:09 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1188
+[04-Aug-2020 14:24:09 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1216
+[04-Aug-2020 14:24:09 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1243
+[04-Aug-2020 14:24:09 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1271
+[04-Aug-2020 14:24:09 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1334
+[04-Aug-2020 14:24:09 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1335
+[04-Aug-2020 14:24:09 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1336
+[04-Aug-2020 14:24:09 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1338
+[04-Aug-2020 14:33:10 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1076
+[04-Aug-2020 14:33:10 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1104
+[04-Aug-2020 14:33:10 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1131
+[04-Aug-2020 14:33:10 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1158
+[04-Aug-2020 14:33:10 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1188
+[04-Aug-2020 14:33:10 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1216
+[04-Aug-2020 14:33:10 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1243
+[04-Aug-2020 14:33:10 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1271
+[04-Aug-2020 14:33:10 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1334
+[04-Aug-2020 14:33:10 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1335
+[04-Aug-2020 14:33:10 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1336
+[04-Aug-2020 14:33:10 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1338
+[04-Aug-2020 14:33:14 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1068
+[04-Aug-2020 14:33:14 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1096
+[04-Aug-2020 14:33:14 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1123
+[04-Aug-2020 14:33:14 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1150
+[04-Aug-2020 14:33:14 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1180
+[04-Aug-2020 14:33:14 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1208
+[04-Aug-2020 14:33:14 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1235
+[04-Aug-2020 14:33:14 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1263
+[04-Aug-2020 14:33:14 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1326
+[04-Aug-2020 14:33:14 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1327
+[04-Aug-2020 14:33:14 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1328
+[04-Aug-2020 14:33:14 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1330
+[04-Aug-2020 14:59:28 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1076
+[04-Aug-2020 14:59:28 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1104
+[04-Aug-2020 14:59:28 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1131
+[04-Aug-2020 14:59:28 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1158
+[04-Aug-2020 14:59:28 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1188
+[04-Aug-2020 14:59:28 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1216
+[04-Aug-2020 14:59:28 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1243
+[04-Aug-2020 14:59:28 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1271
+[04-Aug-2020 14:59:28 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1334
+[04-Aug-2020 14:59:28 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1335
+[04-Aug-2020 14:59:28 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1336
+[04-Aug-2020 14:59:28 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1338
+[04-Aug-2020 15:02:51 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1076
+[04-Aug-2020 15:02:51 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1104
+[04-Aug-2020 15:02:51 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1131
+[04-Aug-2020 15:02:51 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1158
+[04-Aug-2020 15:02:51 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1188
+[04-Aug-2020 15:02:51 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1216
+[04-Aug-2020 15:02:51 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1243
+[04-Aug-2020 15:02:51 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1271
+[04-Aug-2020 15:02:51 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1334
+[04-Aug-2020 15:02:51 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1335
+[04-Aug-2020 15:02:51 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1336
+[04-Aug-2020 15:02:51 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1338
+[04-Aug-2020 15:04:21 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1076
+[04-Aug-2020 15:04:21 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1104
+[04-Aug-2020 15:04:21 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1131
+[04-Aug-2020 15:04:21 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1158
+[04-Aug-2020 15:04:21 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1188
+[04-Aug-2020 15:04:21 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1216
+[04-Aug-2020 15:04:21 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1243
+[04-Aug-2020 15:04:21 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1271
+[04-Aug-2020 15:04:21 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1334
+[04-Aug-2020 15:04:21 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1335
+[04-Aug-2020 15:04:21 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1336
+[04-Aug-2020 15:04:21 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1338
+[04-Aug-2020 15:05:52 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1068
+[04-Aug-2020 15:05:52 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1096
+[04-Aug-2020 15:05:52 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1123
+[04-Aug-2020 15:05:52 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1150
+[04-Aug-2020 15:05:52 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1180
+[04-Aug-2020 15:05:52 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1208
+[04-Aug-2020 15:05:52 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1235
+[04-Aug-2020 15:05:52 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1263
+[04-Aug-2020 15:05:52 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1326
+[04-Aug-2020 15:05:52 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1327
+[04-Aug-2020 15:05:52 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1328
+[04-Aug-2020 15:05:52 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1330
+[04-Aug-2020 15:37:17 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1076
+[04-Aug-2020 15:37:17 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1104
+[04-Aug-2020 15:37:17 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1131
+[04-Aug-2020 15:37:17 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1158
+[04-Aug-2020 15:37:17 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1188
+[04-Aug-2020 15:37:17 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1216
+[04-Aug-2020 15:37:17 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1243
+[04-Aug-2020 15:37:17 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1271
+[04-Aug-2020 15:37:17 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1334
+[04-Aug-2020 15:37:17 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1335
+[04-Aug-2020 15:37:17 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1336
+[04-Aug-2020 15:37:17 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1338
+[04-Aug-2020 15:37:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1068
+[04-Aug-2020 15:37:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1096
+[04-Aug-2020 15:37:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1123
+[04-Aug-2020 15:37:20 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1150
+[04-Aug-2020 15:37:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1180
+[04-Aug-2020 15:37:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1208
+[04-Aug-2020 15:37:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1235
+[04-Aug-2020 15:37:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1263
+[04-Aug-2020 15:37:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1326
+[04-Aug-2020 15:37:20 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1327
+[04-Aug-2020 15:37:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1328
+[04-Aug-2020 15:37:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1330
+[04-Aug-2020 15:54:13 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1068
+[04-Aug-2020 15:54:13 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1096
+[04-Aug-2020 15:54:13 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1123
+[04-Aug-2020 15:54:13 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1150
+[04-Aug-2020 15:54:13 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1180
+[04-Aug-2020 15:54:13 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1208
+[04-Aug-2020 15:54:13 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1235
+[04-Aug-2020 15:54:13 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1263
+[04-Aug-2020 15:54:13 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1326
+[04-Aug-2020 15:54:13 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1327
+[04-Aug-2020 15:54:13 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1328
+[04-Aug-2020 15:54:13 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1330
+[04-Aug-2020 16:32:35 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1068
+[04-Aug-2020 16:32:35 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1096
+[04-Aug-2020 16:32:35 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1123
+[04-Aug-2020 16:32:35 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1150
+[04-Aug-2020 16:32:35 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1180
+[04-Aug-2020 16:32:35 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1208
+[04-Aug-2020 16:32:35 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1235
+[04-Aug-2020 16:32:35 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1263
+[04-Aug-2020 16:32:35 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1326
+[04-Aug-2020 16:32:35 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1327
+[04-Aug-2020 16:32:35 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1328
+[04-Aug-2020 16:32:35 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1330
+[04-Aug-2020 16:45:26 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1068
+[04-Aug-2020 16:45:26 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1096
+[04-Aug-2020 16:45:26 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1123
+[04-Aug-2020 16:45:26 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1150
+[04-Aug-2020 16:45:26 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1180
+[04-Aug-2020 16:45:26 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1208
+[04-Aug-2020 16:45:26 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1235
+[04-Aug-2020 16:45:26 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1263
+[04-Aug-2020 16:45:26 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1326
+[04-Aug-2020 16:45:26 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1327
+[04-Aug-2020 16:45:26 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1328
+[04-Aug-2020 16:45:26 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1330
+[04-Aug-2020 18:24:40 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1076
+[04-Aug-2020 18:24:40 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1104
+[04-Aug-2020 18:24:40 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1131
+[04-Aug-2020 18:24:40 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1158
+[04-Aug-2020 18:24:40 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1188
+[04-Aug-2020 18:24:40 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1216
+[04-Aug-2020 18:24:40 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1243
+[04-Aug-2020 18:24:40 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1271
+[04-Aug-2020 18:24:40 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1334
+[04-Aug-2020 18:24:40 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1335
+[04-Aug-2020 18:24:40 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1336
+[04-Aug-2020 18:24:40 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1338
+[05-Aug-2020 15:24:43 UTC] PHP Warning:  array_reverse() expects parameter 1 to be array, null given in /home/adash/public_html/dashboard/reportbizpublic.php on line 286
+[05-Aug-2020 15:24:43 UTC] PHP Warning:  array_reverse() expects parameter 1 to be array, null given in /home/adash/public_html/dashboard/reportbizpublic.php on line 288
+[05-Aug-2020 15:24:43 UTC] PHP Warning:  array_reverse() expects parameter 1 to be array, null given in /home/adash/public_html/dashboard/reportbizpublic.php on line 290
+[05-Aug-2020 15:24:43 UTC] PHP Warning:  array_reverse() expects parameter 1 to be array, null given in /home/adash/public_html/dashboard/reportbizpublic.php on line 292
+[05-Aug-2020 15:24:43 UTC] PHP Warning:  array_reverse() expects parameter 1 to be array, null given in /home/adash/public_html/dashboard/reportbizpublic.php on line 294
+[05-Aug-2020 15:24:43 UTC] PHP Warning:  array_reverse() expects parameter 1 to be array, null given in /home/adash/public_html/dashboard/reportbizpublic.php on line 296
+[05-Aug-2020 15:24:43 UTC] PHP Warning:  array_reverse() expects parameter 1 to be array, null given in /home/adash/public_html/dashboard/reportbizpublic.php on line 298
+[05-Aug-2020 15:24:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/reportbizpublic.php on line 749
+[05-Aug-2020 18:31:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/linkgmblocationsform.php on line 160
+[05-Aug-2020 21:21:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[05-Aug-2020 21:21:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[05-Aug-2020 21:21:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[05-Aug-2020 21:21:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[05-Aug-2020 21:21:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[05-Aug-2020 21:21:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[05-Aug-2020 21:21:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[05-Aug-2020 21:21:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[05-Aug-2020 21:21:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[05-Aug-2020 21:21:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[05-Aug-2020 21:21:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[05-Aug-2020 21:21:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[05-Aug-2020 21:21:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[05-Aug-2020 22:31:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/linkgmblocationsform.php on line 160
+[06-Aug-2020 16:47:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[06-Aug-2020 16:47:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[06-Aug-2020 16:47:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[06-Aug-2020 16:47:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[06-Aug-2020 16:47:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[06-Aug-2020 16:47:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[06-Aug-2020 16:47:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[06-Aug-2020 16:47:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[06-Aug-2020 16:47:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[06-Aug-2020 16:47:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[06-Aug-2020 16:47:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[06-Aug-2020 16:47:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[06-Aug-2020 16:47:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[06-Aug-2020 22:59:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/linkgmblocationsform.php on line 160
+[06-Aug-2020 23:46:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[06-Aug-2020 23:46:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[06-Aug-2020 23:46:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[06-Aug-2020 23:46:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[06-Aug-2020 23:46:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[06-Aug-2020 23:46:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[06-Aug-2020 23:46:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[06-Aug-2020 23:46:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[06-Aug-2020 23:46:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[06-Aug-2020 23:46:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[06-Aug-2020 23:46:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[06-Aug-2020 23:46:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[06-Aug-2020 23:46:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[08-Aug-2020 08:14:46 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1068
+[08-Aug-2020 08:14:46 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1096
+[08-Aug-2020 08:14:46 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1123
+[08-Aug-2020 08:14:46 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1150
+[08-Aug-2020 08:14:46 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1180
+[08-Aug-2020 08:14:46 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1208
+[08-Aug-2020 08:14:46 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1235
+[08-Aug-2020 08:14:46 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1263
+[08-Aug-2020 08:14:46 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1326
+[08-Aug-2020 08:14:46 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1327
+[08-Aug-2020 08:14:46 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1328
+[08-Aug-2020 08:14:46 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1330
+[10-Aug-2020 20:02:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1076
+[10-Aug-2020 20:02:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1104
+[10-Aug-2020 20:02:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1131
+[10-Aug-2020 20:02:20 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1158
+[10-Aug-2020 20:02:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1188
+[10-Aug-2020 20:02:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1216
+[10-Aug-2020 20:02:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1243
+[10-Aug-2020 20:02:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1271
+[10-Aug-2020 20:02:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1334
+[10-Aug-2020 20:02:20 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1335
+[10-Aug-2020 20:02:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1336
+[10-Aug-2020 20:02:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1338
+[10-Aug-2020 20:02:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1334
+[10-Aug-2020 20:02:20 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1335
+[10-Aug-2020 20:02:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1336
+[10-Aug-2020 20:02:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1338
+[13-Aug-2020 04:12:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/adash/public_html/dashboard/reportfullbizpublicexcel.php on line 119
+[13-Aug-2020 04:12:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/adash/public_html/dashboard/reportfullbizpublicexcel.php on line 164
+[17-Aug-2020 17:42:02 UTC] PHP Fatal error:  Uncaught Twilio\Exceptions\RestException: [HTTP 401] Unable to create record: Authenticate in /home/adash/public_html/dashboard/includes/twilio-php-master/Twilio/Version.php:85
+Stack trace:
+#0 /home/adash/public_html/dashboard/includes/twilio-php-master/Twilio/Version.php(219): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/adash/public_html/dashboard/includes/twilio-php-master/Twilio/Rest/Api/V2010/Account/MessageList.php(68): Twilio\Version->create('POST', '/Accounts/AC46a...', Array, Array)
+#2 /home/adash/public_html/dashboard/linkuptimeform.php(107): Twilio\Rest\Api\V2010\Account\MessageList->create('+13033494233', Object(Twilio\Values))
+#3 {main}
+  thrown in /home/adash/public_html/dashboard/includes/twilio-php-master/Twilio/Version.php on line 85
+[24-Aug-2020 18:32:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:32:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:32:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:32:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:32:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:32:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:32:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:32:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:32:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:32:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:32:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:32:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:32:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:33:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:33:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:33:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:33:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:33:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:33:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:33:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:33:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:33:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:33:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:33:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:33:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:33:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:40:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:40:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:40:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:40:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:40:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:40:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:40:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:40:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:40:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:40:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:40:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:40:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[24-Aug-2020 18:40:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[26-Aug-2020 00:17:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 26
+[26-Aug-2020 11:58:35 America/Los_Angeles] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid token format in /home/adash/public_html/dashboard/vendor/google/apiclient/src/Google/Client.php:433
+Stack trace:
+#0 /home/adash/public_html/dashboard/gettoken.php(59): Google_Client->setAccessToken(Array)
+#1 {main}
+  thrown in /home/adash/public_html/dashboard/vendor/google/apiclient/src/Google/Client.php on line 433
+[26-Aug-2020 12:00:23 America/Los_Angeles] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid token format in /home/adash/public_html/dashboard/vendor/google/apiclient/src/Google/Client.php:433
+Stack trace:
+#0 /home/adash/public_html/dashboard/gettoken.php(59): Google_Client->setAccessToken(Array)
+#1 {main}
+  thrown in /home/adash/public_html/dashboard/vendor/google/apiclient/src/Google/Client.php on line 433
+[26-Aug-2020 12:00:27 America/Los_Angeles] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid token format in /home/adash/public_html/dashboard/vendor/google/apiclient/src/Google/Client.php:433
+Stack trace:
+#0 /home/adash/public_html/dashboard/gettoken.php(59): Google_Client->setAccessToken(Array)
+#1 {main}
+  thrown in /home/adash/public_html/dashboard/vendor/google/apiclient/src/Google/Client.php on line 433
+[26-Aug-2020 19:09:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/linkgmblocationsform.php on line 160
+[26-Aug-2020 19:09:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[26-Aug-2020 19:09:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[26-Aug-2020 19:09:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[26-Aug-2020 19:09:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[26-Aug-2020 19:09:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[26-Aug-2020 19:09:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[26-Aug-2020 19:09:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[26-Aug-2020 19:09:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[26-Aug-2020 19:09:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[26-Aug-2020 19:09:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[26-Aug-2020 19:09:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[26-Aug-2020 19:09:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[26-Aug-2020 19:09:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[26-Aug-2020 19:11:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/linkgmblocationsform.php on line 160
+[26-Aug-2020 19:12:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[26-Aug-2020 19:12:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[26-Aug-2020 19:12:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[26-Aug-2020 19:12:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[26-Aug-2020 19:12:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[26-Aug-2020 19:12:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[26-Aug-2020 19:12:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[26-Aug-2020 19:12:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[26-Aug-2020 19:12:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[26-Aug-2020 19:12:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[26-Aug-2020 19:12:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[26-Aug-2020 19:12:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[26-Aug-2020 19:12:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/savegmbdata.php on line 120
+[28-Aug-2020 18:38:44 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1334
+[28-Aug-2020 18:38:44 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1335
+[28-Aug-2020 18:38:44 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1336
+[28-Aug-2020 18:38:44 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1338
+[28-Aug-2020 21:11:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/adash/public_html/dashboard/reportfullbizpublicexcel.php on line 119
+[28-Aug-2020 21:11:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/adash/public_html/dashboard/reportfullbizpublicexcel.php on line 164
+[01-Sep-2020 14:58:18 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1334
+[01-Sep-2020 14:58:18 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1335
+[01-Sep-2020 14:58:18 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1336
+[01-Sep-2020 14:58:18 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1338
+[01-Sep-2020 14:58:43 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1334
+[01-Sep-2020 14:58:43 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1335
+[01-Sep-2020 14:58:43 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1336
+[01-Sep-2020 14:58:43 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1338
+[02-Sep-2020 03:50:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/linkgmblocationsform.php on line 160
+[04-Sep-2020 14:56:29 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1334
+[04-Sep-2020 14:56:29 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1335
+[04-Sep-2020 14:56:29 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1336
+[04-Sep-2020 14:56:29 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1338
+[04-Sep-2020 15:16:11 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1326
+[04-Sep-2020 15:16:11 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1327
+[04-Sep-2020 15:16:11 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1328
+[04-Sep-2020 15:16:11 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1330
+[04-Sep-2020 15:26:19 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1334
+[04-Sep-2020 15:26:19 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1335
+[04-Sep-2020 15:26:19 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1336
+[04-Sep-2020 15:26:19 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1338
+[11-Sep-2020 15:53:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/adash/public_html/dashboard/reportfullbizpublicexcel.php on line 119
+[11-Sep-2020 15:53:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/adash/public_html/dashboard/reportfullbizpublicexcel.php on line 164
+[11-Sep-2020 16:57:58 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1334
+[11-Sep-2020 16:57:58 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1335
+[11-Sep-2020 16:57:58 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1336
+[11-Sep-2020 16:57:58 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1338
+[15-Sep-2020 22:41:54 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportgadwordspublic.php on line 350
+[15-Sep-2020 22:41:54 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportgadwordspublic.php on line 438
+[15-Sep-2020 22:41:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/reportgadwordspublic.php on line 825
+[15-Sep-2020 22:41:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adash/public_html/dashboard/reportgadwordspublic.php on line 887
+[21-Sep-2020 21:52:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/adash/public_html/dashboard/reportfullbizpublicexcel.php on line 119
+[21-Sep-2020 21:52:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/adash/public_html/dashboard/reportfullbizpublicexcel.php on line 164
+[02-Oct-2020 18:54:53 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1326
+[02-Oct-2020 18:54:53 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1327
+[02-Oct-2020 18:54:53 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1328
+[02-Oct-2020 18:54:53 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1330
+[02-Oct-2020 19:09:12 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1326
+[02-Oct-2020 19:09:12 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1327
+[02-Oct-2020 19:09:12 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1328
+[02-Oct-2020 19:09:12 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1330
+[02-Oct-2020 19:12:18 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1326
+[02-Oct-2020 19:12:18 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1327
+[02-Oct-2020 19:12:18 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1328
+[02-Oct-2020 19:12:18 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbizpublic.php on line 1330
+[05-Oct-2020 19:52:17 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1334
+[05-Oct-2020 19:52:17 UTC] PHP Warning:  mktime() expects parameter 2 to be integer, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1335
+[05-Oct-2020 19:52:17 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1336
+[05-Oct-2020 19:52:17 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/adash/public_html/dashboard/reportfullbiz.php on line 1338
